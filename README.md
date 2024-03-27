@@ -48,7 +48,8 @@ According to our research conducted with students from different universities, w
    <br>
 ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/89e644df-d3c3-46af-86b5-6236097f9b71)
 <br>
-![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/cf7c3e6d-a9a9-44da-8d91-405b8ac3e5ea)
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/55d9c3ea-d22e-4738-9eb0-66380016ad0d)
+
 
 
 Figma mock-up Link: <br>
