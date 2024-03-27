@@ -21,6 +21,28 @@ According to our research conducted with students from different universities, w
 3. Resource Availability: Limited resources, such as time, budget, and kitchen amenities, influence cooking habits and preferences, underscoring the importance of accessibility in meal preparation. Also, Tallahassee's status as a college town with a smaller international population compared to major metro cities like New York or Chicago significantly impacts the availability of international restaurants and grocery shops.<br>
 4. Recommendations: Suggested offering simplified recipes, cooking classes, and resources for sourcing authentic ingredients to support students' cooking endeavors. knowing a substitution ingredient for a dish would be helpful.
 
+<br>
+
+• Storyboard for illustrating three different levels of tasks.
+1. Simple Task: Search a Recipe <br>
+
+ 
+ 
+
+
+2. Medium Task: Search Based on Filters (e.g., Cuisine or Ingredients) <br>
+ 
+ 
+
+
+3. Complex Task: Add Your Recipe <br>
+
+ 
+
+ 
+
+
+
 
 
 
