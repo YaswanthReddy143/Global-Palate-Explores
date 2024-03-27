@@ -28,16 +28,28 @@ According to our research conducted with students from different universities, w
 
  
  ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/fd44e569-829d-42ee-a287-4158d0ad9773)
+ <br>
+ ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/e973c155-2375-4f7a-a867-e49e2a19f711)
+<br>
 
 
 
 2. Medium Task: Search Based on Filters (e.g., Cuisine or Ingredients) <br>
  
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/a2647d5c-0a90-4fea-a3f4-ceef9f85eb4c)
+<br>
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/4269fca9-81e3-40d7-b1f7-4eaf1c220d74)
+<br>
+
  
 
 
 3. Complex Task: Add Your Recipe
    <br>
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/89e644df-d3c3-46af-86b5-6236097f9b71)
+<br>
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/cf7c3e6d-a9a9-44da-8d91-405b8ac3e5ea)
+
 
 Figma mock-up Link: <br>
 https://www.figma.com/file/ZMDpJBVOMuj2qG30dtzqep/Untitled?type=design&node-id=0%3A1&mode=dev&t=DGnCdW1Aym33ohiZ-1
