@@ -1,5 +1,6 @@
 # Global-Palate-Explores
-![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/12d45822-b059-4b22-9ab1-25c2de83b1fa)
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/868eeea2-527e-4ccd-8217-523b99d66ec2)
+
 
 • Project team. <br>
 Sai Madhavi Gujju <br>
