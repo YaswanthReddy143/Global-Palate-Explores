@@ -1,5 +1,3 @@
 # Global-Palate-Explores
-• Project team.
-Sai Madhavi Gujju 
-Aditi Allady
-Yaswanth Reddy Ambati
+git commit -m "• Project team.\nSai Madhavi Gujju\nAditi Allady\nYaswanth Reddy Ambati"
+
