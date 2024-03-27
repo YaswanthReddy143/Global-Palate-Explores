@@ -1,6 +1,7 @@
 # Global-Palate-Explores
-• Project team.\n
-Sai Madhavi Gujju
-\nAditi Allady
-\nYaswanth Reddy Ambati"
+• Project team. <br>
+Sai Madhavi Gujju <br>
+Aditi Allady <br>
+Yaswanth Reddy Ambati <br>
+
 
