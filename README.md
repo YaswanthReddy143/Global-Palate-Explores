@@ -35,7 +35,8 @@ According to our research conducted with students from different universities, w
  
 
 
-3. Complex Task: Add Your Recipe <br>
+3. Complex Task: Add Your Recipe
+   <br>
 
 Figma mock-up Link: <br>
 https://www.figma.com/file/ZMDpJBVOMuj2qG30dtzqep/Untitled?type=design&node-id=0%3A1&mode=dev&t=DGnCdW1Aym33ohiZ-1
