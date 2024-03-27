@@ -27,7 +27,8 @@ According to our research conducted with students from different universities, w
 1. Simple Task: Search a Recipe <br>
 
  
- 
+ ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/fd44e569-829d-42ee-a287-4158d0ad9773)
+
 
 
 2. Medium Task: Search Based on Filters (e.g., Cuisine or Ingredients) <br>
