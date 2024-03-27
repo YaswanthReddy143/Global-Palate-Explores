@@ -39,6 +39,7 @@ According to our research conducted with students from different universities, w
 
 Figma mock-up Link: <br>
 https://www.figma.com/file/ZMDpJBVOMuj2qG30dtzqep/Untitled?type=design&node-id=0%3A1&mode=dev&t=DGnCdW1Aym33ohiZ-1
+<br>
 Figma Prototype Link: <br>
 https://www.figma.com/proto/ZMDpJBVOMuj2qG30dtzqep/Untitled?scaling=scale-down&page-id=0%3A1&node-id=1-6&starting-point-node-id=1%3A6&show-proto-sidebar=1
 
