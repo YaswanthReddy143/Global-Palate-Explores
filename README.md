@@ -44,10 +44,6 @@ Figma Prototype Link: <br>
 https://www.figma.com/proto/ZMDpJBVOMuj2qG30dtzqep/Untitled?scaling=scale-down&page-id=0%3A1&node-id=1-6&starting-point-node-id=1%3A6&show-proto-sidebar=1
 
 
- 
-
- 
-
 
 
 
