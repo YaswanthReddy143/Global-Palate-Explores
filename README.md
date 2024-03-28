@@ -27,7 +27,7 @@ According to our research conducted with students from different universities, w
 <br>
 
 # Storyboard for illustrating three different levels of tasks.
-1. Simple Task: Search a Recipe <br>
+1. **Simple Task**: Search a Recipe <br>
 
  
  ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/fd44e569-829d-42ee-a287-4158d0ad9773)
@@ -37,7 +37,7 @@ According to our research conducted with students from different universities, w
 
 
 
-2. Medium Task: Search Based on Filters (e.g., Cuisine or Ingredients) <br>
+2. **Medium Task**: Search Based on Filters (e.g., Cuisine or Ingredients) <br>
  
 ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/a2647d5c-0a90-4fea-a3f4-ceef9f85eb4c)
 <br>
@@ -47,8 +47,8 @@ According to our research conducted with students from different universities, w
  
 
 
-3. Complex Task: Add Your Recipe
-   <br>
+3. **Complex Task**: Add Your Recipe <br>
+
 ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/89e644df-d3c3-46af-86b5-6236097f9b71)
 ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/55d9c3ea-d22e-4738-9eb0-66380016ad0d)
 
