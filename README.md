@@ -2,20 +2,20 @@
 ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/868eeea2-527e-4ccd-8217-523b99d66ec2)
 
 
-• Project team. <br>
+# Project team. <br>
 Sai Madhavi Gujju <br>
 Aditi Allady <br>
 Yaswanth Reddy Ambati <br>
 
 <br>
 
-• Brief Introduction of the Project:
+# Brief Introduction of the Project:
 <br>
 Global Palate Hub is a culinary companion for international students, offering familiar flavors from home and exciting global recipes, all tailored to individual culinary journeys. With features like cultural comfort, global exploration, budget-friendly options, and a supportive community, it aims to make every meal a journey and every recipe a story, fostering a flavorful and fulfilling experience away from home.
 
 <br>
 
-• Summary of your user research:
+# Summary of your user research:
 <br>
 According to our research conducted with students from different universities, we have concluded user research which states below: 
 
@@ -26,7 +26,7 @@ According to our research conducted with students from different universities, w
 
 <br>
 
-• Storyboard for illustrating three different levels of tasks.
+# Storyboard for illustrating three different levels of tasks.
 1. Simple Task: Search a Recipe <br>
 
  
@@ -56,7 +56,7 @@ According to our research conducted with students from different universities, w
 
 
 
-Figma mock-up Link: <br>
+# Figma mock-up Link: <br>
 https://www.figma.com/file/ZMDpJBVOMuj2qG30dtzqep/Untitled?type=design&node-id=0%3A1&mode=dev&t=DGnCdW1Aym33ohiZ-1
 <br>
 Figma Prototype Link: <br>
