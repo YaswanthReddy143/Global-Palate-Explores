@@ -1,7 +1,6 @@
 # Global-Palate-Explores
 ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/868eeea2-527e-4ccd-8217-523b99d66ec2)
 
-
 # Project team. <br>
 Sai Madhavi Gujju <br>
 Aditi Allady <br>
@@ -29,29 +28,17 @@ According to our research conducted with students from different universities, w
 # Storyboard for illustrating three different levels of tasks.
 1. **Simple Task**: Search a Recipe <br>
 
- 
-
-
-
+ ![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/a7bda608-9ff5-4876-92bd-cc9b5de0a7f6)
 
 2. **Medium Task**: Search Based on Filters (e.g., Cuisine or Ingredients) <br>
  
-![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/a2647d5c-0a90-4fea-a3f4-ceef9f85eb4c)
-<br>
-![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/4269fca9-81e3-40d7-b1f7-4eaf1c220d74)
-<br>
-
- 
-
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/7f962583-d106-4efe-9937-a8e06edd3547)
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/944800a0-3c89-4f85-9575-ad615d1ae337)
 
 3. **Complex Task**: Add Your Recipe <br>
 
-![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/89e644df-d3c3-46af-86b5-6236097f9b71)
-![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/55d9c3ea-d22e-4738-9eb0-66380016ad0d)
-
-
-
-
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/6898361e-4930-4999-8c2f-40594912149b)
+![image](https://github.com/YaswanthReddy143/Global-Palate-Explores/assets/66059729/6a5e6f71-667b-42c0-ad66-242f328eb06e)
 
 # Figma mock-up Link: <br>
 https://www.figma.com/file/ZMDpJBVOMuj2qG30dtzqep/Untitled?type=design&node-id=0%3A1&mode=dev&t=DGnCdW1Aym33ohiZ-1
